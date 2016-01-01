@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Football Scores</string>
+    <string name="today">Today</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="share_text">Share</string>
+    <string name="about">About</string>
+    <string name="about_text">
+        This Application get Football Matches Score for the Premier League,Seria A,Bundesliga,Primera Division
+        and the Uefa Champions League.
+        All Matches data are acquired from football-data.org free API.
+        All team Logos are acquired from http://hdlogo.wordpress.com/ upon requesting permission form the owner.
+        The original version of this app was created by Yahia Khalid Ibn El Walid Ahmed, and a modified version is given to students in the Udacity Android Nanodegree program.
+        To report any bugs,or suggestions do not hesitate to send a mail to y.k.ibnelwalid@gmail.com.
+
+        During the off season, fake data will be added to the app.
+    </string>
+
+    <string name="api_key" translatable="false">b562a379adc54afd8e427f065dbbe3de</string>
+
+    <string name="hash_tag">#Football_Scores</string>
+
+    <string name="match_day_6">Group Stages, Matchday : 6</string>
+    <string name="match_day_7_8">"First Knockout round</string>
+    <string name="match_day_9_10">QuarterFinal</string>
+    <string name="match_day_11_12">SemiFinal</string>
+    <string name="match_day_final">Final</string>
+    <string name="mathc_day">Match day : %d</string>
+
+    <string name="date_format" translatable="false">yyyy-MM-dd</string>
+    <string name="time_format" translatable="false">HH:mm</string>
+    <string name="day_format" translatable="false">EEEE</string>
+
+    <string name="no_results">No matches on this day</string>
+    <string name="no_network">Network not available! Check your netwrok connection and try to refresh later.</string>
+    <string name="server_error">Can\'t update scores info due to server error. Please try later.</string>
+    <string name="scored_updated">Scores info was successfully updated!</string>
+    <string name="league_not_known">League info not available</string>
+    <string name="today_matches">Matches for today</string>
+
+    <string name="home_logo">Home team logo</string>
+    <string name="away_logo">Away team logo</string>
+    <string name="app_logo">Application logo</string>
+    <string name="vs">vs</string>
+    <string name="subject">Football scores</string>
+</resources>

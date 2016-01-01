@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Alexandria</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_settings">Settings</string>
+    <string name="action_share">Share</string>
+    <string name="action_scan">Scan Book</string>
+    <string name="action_search">Search</string>
+    <string name="action_about">About this App</string>
+
+    <string name="share_text">A must read book: </string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="about_text">This application gets book information from a Google API. All titles, cover images, and author information come from there.
+    The original version of this app was built by Sascha Jaschke, and a modified version is given to students in the Udacity Android Nanodegree program. </string>
+
+    <string name="drawer_header_text">Alexandria</string>
+
+    <string name="select_book">Select book</string>
+
+    <string name="title_activity_about">About this App</string>
+
+    <string name="pref_sort">List Sort Order</string>
+    <string name="pref_sort_key"  translatable="false">pref_sort_key</string>
+    <string name="pref_sort_default" translatable="false">1</string>
+    <string name="sort_by_date_asc">Sort by Date (asc)</string>
+    <string name="sort_by_date_desc">Sort by Date (desc)</string>
+    <string name="sort_by_title_asc">Sort by Title (asc)</string>
+    <string name="sort_by_title_desc">Sort by Title (desc)</string>
+
+    <string name="pref_search">Search View Mode</string>
+    <string name="pref_search_key"  translatable="false">pref_search_key</string>
+    <string name="pref_search_default"  translatable="false">1</string>
+    <string name="search_expanded">Expanded</string>
+    <string name="search_collapsed">Collapsed</string>
+    <string name="search_hint">Enter ISBN to add new book</string>
+    <string name="isbn_title">ISBN: %s</string>
+    <string name="loading_title">Loading&#8230;</string>
+    <string name="book_not_loaded_yet">Book with ISBN: %s isn\'t loaded yet!</string>
+    <string name="book_was_added">Book %s was added to your list</string>
+    <string name="book_not_found">Book %s was not found</string>
+    <string name="books_not_found">Books not found</string>
+    <string name="author_unknown">Author unknown</string>
+    <string name="category_unknown">Category unknown</string>
+    <string name="no_description">No description provided</string>
+    <string name="cd_book_cover">Book Cover</string>
+    <string name="cd_alexandris_library">Alexandria Library</string>
+    <string name="action_delete">Delete</string>
+    <string name="server_error">Can\'t find book with ISBN %s due to server error. Try again late.</string>
+</resources>
