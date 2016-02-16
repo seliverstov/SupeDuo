@@ -5,8 +5,8 @@
 
 ### Install
 ```
-$ git clone https://github.com/seliverstov/Alexandria
-$ cd Alexandria
+$ git clone https://github.com/seliverstov/SupeDuo
+$ cd SupeDuo/alexandria
 $ gradle installDebug
 ```
 
@@ -25,8 +25,8 @@ $ gradle installDebug
 
 ### Install
 ```
-$ git clone https://github.com/seliverstov/FootballScores
-$ cd FootballScores
+$ git clone https://github.com/seliverstov/SupeDuo
+$ cd SupeDuo/footballscores
 ```
 Go to `app/src/main/res/values`, open `strings.xml`file in text editor and put your api key to. 
 
